@@ -1,5 +1,5 @@
 # Batch-Window-Snip
-A program that automatically creates a screenshot for every single visible window on the desktop. 
+### A program that automatically creates a screenshot for every single visible window on the desktop. 
 
 This is a very simple batch snipping program that I asked Chat GPT 4o to make for me in C++.
 
